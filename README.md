@@ -42,7 +42,7 @@ Each entry is turned into a wall, roof strip, gutter and downpipe by the same lo
 2. Open the **Scripting** workspace, open `house_generator.py`, press **Run Script**.
 3. Switch the viewport to Material Preview, or render with `F12`.
 
-> Code comments and variable names are partly in Romanian, as it was written for the house's own owners.
+> Some variable and function names are in Romanian, as it was written for the house's own owners.
 
 ## Tech
 
